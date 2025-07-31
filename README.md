@@ -17,6 +17,7 @@ A responsive and multi-page resort website developed using **HTML**, **CSS**, an
 - **PHP** – for backend booking form handling (optional, if implemented)
 - **Google Fonts** – for modern typography
 - **Custom Images & Icons** – for an immersive resort feel
+- 
   ## 🚀 Features
 
 - 🛌 Room booking button
@@ -25,3 +26,13 @@ A responsive and multi-page resort website developed using **HTML**, **CSS**, an
 - 🍽️ Menu page for restaurant offerings
 - 📱 Mobile responsive layout
 
+📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](images/homepage.png)
+
+### 🧘 Activities Page
+![Activities](images/activities.png)
+
+### 📞 Booking Form
+![Contact](images/contact.png)
