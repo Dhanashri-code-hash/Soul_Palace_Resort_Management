@@ -32,7 +32,9 @@ A responsive and multi-page resort website developed using **HTML**, **CSS**, an
 ![Home Page](images/homepage.png)
 
 ### 🧘 Activities Page
-![Activities]([images/activities.png](https://github.com/Dhanashri-code-hash/Soul_Palace_Resort_Management/blob/f450593181fcb1d82c16a7d2304506267741d27f/Actitvities%20page.png))
+
+[![Activities Page](https://github.com/Dhanashri-code-hash/Soul_Palace_Resort_Management/blob/main/Actitvities%20page.png?raw=true)](https://github.com/Dhanashri-code-hash/Soul_Palace_Resort_Management/blob/main/Actitvities%20page.png?raw=true)
+
 
 ### 📞 Booking Form
 ![Contact](images/contact.png)
