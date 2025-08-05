@@ -44,3 +44,4 @@ A responsive and multi-page resort website developed using **HTML**, **CSS**, an
 
 [![Room Booking Page](https://github.com/Dhanashri-code-hash/Soul_Palace_Resort_Management/blob/main/room%20booking%20page.png?raw=true)](https://github.com/Dhanashri-code-hash/Soul_Palace_Resort_Management/blob/main/room%20booking%20page.png?raw=true)
 
+Idea belongs solely to me.
